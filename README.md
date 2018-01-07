@@ -1,3 +1,3 @@
 # Icon Set 
 
-[Icon Set](https://github.com/EvaMariaGarcia/Icon-set/final12icons.png)
+[Icon Set](https://github.com/EvaMariaGarcia/Icon-set/blob/master/final12icons.png)
